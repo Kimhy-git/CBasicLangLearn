@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// ÀÚµ¿Çüº¯È¯
+// ìë™í˜•ë³€í™˜
 int main_exam_02_07(void) {
 
 	double number1 = 10;
