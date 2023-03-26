@@ -45,6 +45,11 @@
     <ClCompile Include="exam-08-08-goto.c" />
     <ClCompile Include="exam-08-08.c" />
     <ClCompile Include="test-08-01.c" />
+    <ClCompile Include="test-08-02.c" />
+    <ClCompile Include="test-08-03.c" />
+    <ClCompile Include="test-08-05.c" />
+    <ClCompile Include="test-08-04.c" />
+    <ClCompile Include="test-08-06.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
