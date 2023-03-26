@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\chap01">
       <UniqueIdentifier>{6629f639-41ab-4bc4-a22c-9915bb4bca6d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\chap02">
+      <UniqueIdentifier>{21d2c14e-234b-41cf-813e-6d131a85f654}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="exam-02-06.c">
@@ -50,6 +53,51 @@
     </ClCompile>
     <ClCompile Include="exam-05-05.c">
       <Filter>소스 파일\chap01</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-07-01.c">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-07-02.c">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-07-03.c">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-07-05.c">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-07-06.c">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-07-07.c">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-08-01.c">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-08-02.c">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-08-03.c">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-08-04.c">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-08-05.c">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-08-06.c">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-08-08.c">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-08-08-goto.c">
+      <Filter>소스 파일\chap02</Filter>
+    </ClCompile>
+    <ClCompile Include="test-08-01.c">
+      <Filter>소스 파일\chap02</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -30,6 +30,21 @@
     <ClCompile Include="exam-05-03.c" />
     <ClCompile Include="exam-05-04.c" />
     <ClCompile Include="exam-05-05.c" />
+    <ClCompile Include="exam-07-01.c" />
+    <ClCompile Include="exam-07-02.c" />
+    <ClCompile Include="exam-07-03.c" />
+    <ClCompile Include="exam-07-05.c" />
+    <ClCompile Include="exam-07-06.c" />
+    <ClCompile Include="exam-07-07.c" />
+    <ClCompile Include="exam-08-01.c" />
+    <ClCompile Include="exam-08-02.c" />
+    <ClCompile Include="exam-08-03.c" />
+    <ClCompile Include="exam-08-04.c" />
+    <ClCompile Include="exam-08-05.c" />
+    <ClCompile Include="exam-08-06.c" />
+    <ClCompile Include="exam-08-08-goto.c" />
+    <ClCompile Include="exam-08-08.c" />
+    <ClCompile Include="test-08-01.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

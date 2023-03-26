@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // 연산자의 우선 순위
-int main(void) {
+int main_05_05(void) {
 
 	int num1 = 3;
 	int num2 = 5;
