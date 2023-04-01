@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main_test_08_06(void) {
 	int height = 7;
 
 	// ¿¨ ³ª ÀÌ°Å ¿Ö µÊ??

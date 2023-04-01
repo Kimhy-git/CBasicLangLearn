@@ -44,12 +44,21 @@
     <ClCompile Include="exam-08-06.c" />
     <ClCompile Include="exam-08-08-goto.c" />
     <ClCompile Include="exam-08-08.c" />
+    <ClCompile Include="exam-09-02.c" />
+    <ClCompile Include="exam-09-03.c" />
+    <ClCompile Include="exam-09-04.c" />
+    <ClCompile Include="exam-09-05.c" />
     <ClCompile Include="test-08-01.c" />
     <ClCompile Include="test-08-02.c" />
     <ClCompile Include="test-08-03.c" />
     <ClCompile Include="test-08-05.c" />
     <ClCompile Include="test-08-04.c" />
     <ClCompile Include="test-08-06.c" />
+    <ClCompile Include="test-09-01.c" />
+    <ClCompile Include="test-09-02.c" />
+    <ClCompile Include="test-09-03.c" />
+    <ClCompile Include="test-09-04.c" />
+    <ClCompile Include="test-09-05.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
