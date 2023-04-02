@@ -59,6 +59,10 @@
     <ClCompile Include="test-09-03.c" />
     <ClCompile Include="test-09-04.c" />
     <ClCompile Include="test-09-05.c" />
+    <ClCompile Include="test-09-06.c" />
+    <ClCompile Include="test-09-07.c" />
+    <ClCompile Include="test-09-08.c" />
+    <ClCompile Include="test-09-09.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

@@ -144,5 +144,17 @@
     <ClCompile Include="test-09-05.c">
       <Filter>소스 파일\chap03</Filter>
     </ClCompile>
+    <ClCompile Include="test-09-06.c">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="test-09-07.c">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="test-09-08.c">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="test-09-09.c">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

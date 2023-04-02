@@ -9,7 +9,7 @@
 2. 입력된 정수 중 최소값
 3. 입력된 정수의 총합
 */
-int main(void) {
+int main_test_09_05(void) {
 	int arr[5];
 	int max, min, sum, i;
 
