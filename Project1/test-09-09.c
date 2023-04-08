@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // 달팽이 문제(배열)
-int main(void) {
+int main_test_09_09(void) {
 	/*
 	int num, max = 0;
 	int i, j;
