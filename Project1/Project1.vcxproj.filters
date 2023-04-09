@@ -189,5 +189,37 @@
     <ClCompile Include="exam-16-03.c">
       <Filter>소스 파일\chap04</Filter>
     </ClCompile>
+    <ClCompile Include="test-15-06.c">
+      <Filter>소스 파일\chap04</Filter>
+    </ClCompile>
+    <ClCompile Include="test-15-07.c">
+      <Filter>소스 파일\chap04</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-16-05.c">
+      <Filter>소스 파일\chap04</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-16-06.c">
+      <Filter>소스 파일\chap04</Filter>
+    </ClCompile>
+    <ClCompile Include="test-16-03.c">
+      <Filter>소스 파일\chap04</Filter>
+    </ClCompile>
+    <ClCompile Include="test-16-04.c">
+      <Filter>소스 파일\chap04</Filter>
+    </ClCompile>
+    <ClCompile Include="test-16-05.c">
+      <Filter>소스 파일\chap04</Filter>
+    </ClCompile>
+    <ClCompile Include="sort-01.c">
+      <Filter>소스 파일\chap04</Filter>
+    </ClCompile>
+    <ClCompile Include="sort-02.c">
+      <Filter>소스 파일\chap04</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="memo.txt">
+      <Filter>소스 파일\chap04</Filter>
+    </Text>
   </ItemGroup>
 </Project>

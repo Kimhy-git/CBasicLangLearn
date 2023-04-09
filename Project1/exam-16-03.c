@@ -7,7 +7,7 @@ void swapNumber(int num1, int num2) {
 	printf("함수 안에서 확인한 결과 num: %d, num2: %d \n", num1, num2);
 }
 
-int main(void) {
+int main_exam_16_03(void) {
 	int number1 = 33;
 	int number2 = 99;
 
