@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define NUM 7
 
-int main(void) {
+int main_sort_02(void) {
 	char arr[NUM] = { 'F', 'B', 'A', 'E', 'D', 'C', 'G'};
 
 	printf("랜덤하게 섞여있는 데이터 값 : \n");

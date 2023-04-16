@@ -48,6 +48,11 @@
     <ClCompile Include="exam-09-03.c" />
     <ClCompile Include="exam-09-04.c" />
     <ClCompile Include="exam-09-05.c" />
+    <ClCompile Include="exam-10-01.c" />
+    <ClCompile Include="exam-10-02.c" />
+    <ClCompile Include="exam-12-04.c" />
+    <ClCompile Include="exam-13-01.c" />
+    <ClCompile Include="exam-13-03.c" />
     <ClCompile Include="exam-15-01.c" />
     <ClCompile Include="exam-15-04.c" />
     <ClCompile Include="exam-15-03.c" />
@@ -56,6 +61,7 @@
     <ClCompile Include="exam-16-03.c" />
     <ClCompile Include="exam-16-05.c" />
     <ClCompile Include="exam-16-06.c" />
+    <ClCompile Include="maxminPtr.c" />
     <ClCompile Include="sort-01.c" />
     <ClCompile Include="sort-02.c" />
     <ClCompile Include="test-08-01.c" />
@@ -73,6 +79,12 @@
     <ClCompile Include="test-09-07.c" />
     <ClCompile Include="test-09-08.c" />
     <ClCompile Include="test-09-09.c" />
+    <ClCompile Include="test-10-02.c" />
+    <ClCompile Include="test-10-03.c" />
+    <ClCompile Include="test-10-04.c" />
+    <ClCompile Include="test-12-01.c" />
+    <ClCompile Include="test-12-02.c" />
+    <ClCompile Include="test-12-03.c" />
     <ClCompile Include="test-15-01.c" />
     <ClCompile Include="test-15-02.c" />
     <ClCompile Include="test-15-04.c" />
@@ -98,7 +110,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">

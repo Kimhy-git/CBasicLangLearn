@@ -216,6 +216,42 @@
     <ClCompile Include="sort-02.c">
       <Filter>소스 파일\chap04</Filter>
     </ClCompile>
+    <ClCompile Include="exam-10-01.c">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-10-02.c">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="test-10-02.c">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="test-10-03.c">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="test-10-04.c">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-12-04.c">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="test-12-01.c">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="test-12-02.c">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="test-12-03.c">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="maxminPtr.c">
+      <Filter>소스 파일\chap03</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-13-01.c">
+      <Filter>소스 파일\chap04</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-13-03.c">
+      <Filter>소스 파일\chap04</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="memo.txt">
