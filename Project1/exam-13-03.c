@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main_exam_13_03(void) {
 	int ch;
 
 	while (1)
