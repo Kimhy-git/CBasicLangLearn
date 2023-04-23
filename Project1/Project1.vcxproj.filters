@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\chap00">
       <UniqueIdentifier>{7a10ece3-cdf7-4995-802f-650f38512911}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\chap05">
+      <UniqueIdentifier>{92396507-5404-4a1a-8d95-799d13a20986}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="exam-02-06.c">
@@ -263,6 +266,36 @@
     </ClCompile>
     <ClCompile Include="test_230422_03.c">
       <Filter>소스 파일\chap00</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-19-01.c">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-19-03.c">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-19-04.c">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-20-01.c">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-20-02.c">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-20-03.c">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-20-05.c">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-20-06.c">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="test-19-01.c">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-20-07.c">
+      <Filter>소스 파일\chap05</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
