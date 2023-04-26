@@ -297,10 +297,25 @@
     <ClCompile Include="exam-20-07.c">
       <Filter>소스 파일\chap05</Filter>
     </ClCompile>
+    <ClCompile Include="pointer_230426_01.c">
+      <Filter>소스 파일\chap00</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_230426_02.c">
+      <Filter>소스 파일\chap00</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_230426_03.c">
+      <Filter>소스 파일\chap00</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_230426_04.c">
+      <Filter>소스 파일\chap00</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="memo.txt">
       <Filter>소스 파일\chap04</Filter>
+    </Text>
+    <Text Include="pointer_230426.txt">
+      <Filter>소스 파일\chap00</Filter>
     </Text>
   </ItemGroup>
 </Project>
