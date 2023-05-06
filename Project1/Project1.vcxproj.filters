@@ -31,6 +31,12 @@
     <Filter Include="소스 파일\chap05">
       <UniqueIdentifier>{92396507-5404-4a1a-8d95-799d13a20986}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\file">
+      <UniqueIdentifier>{a89f7fa6-f2fc-4be8-802e-4c485b5d4293}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\addrbook">
+      <UniqueIdentifier>{577c09e0-7cbe-45ed-8b0f-f1bc46cd9415}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="exam-02-06.c">
@@ -308,6 +314,69 @@
     </ClCompile>
     <ClCompile Include="pointer_230426_04.c">
       <Filter>소스 파일\chap00</Filter>
+    </ClCompile>
+    <ClCompile Include="test-20-04.c">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-18-01.c">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="test-20-01.c">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="test-20-02.c">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="test-20-03.c">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-18-03.c">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="exam-18-04.c">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="test-18-01.c">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="test-18-02.c">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="test-18-03.c">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="structMem1.c">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="structMem2.c">
+      <Filter>소스 파일\chap05</Filter>
+    </ClCompile>
+    <ClCompile Include="filetest3.c">
+      <Filter>소스 파일\file</Filter>
+    </ClCompile>
+    <ClCompile Include="filetest1.c">
+      <Filter>소스 파일\file</Filter>
+    </ClCompile>
+    <ClCompile Include="filetest2.c">
+      <Filter>소스 파일\file</Filter>
+    </ClCompile>
+    <ClCompile Include="fgetcfgets.c">
+      <Filter>소스 파일\file</Filter>
+    </ClCompile>
+    <ClCompile Include="feofcopychar.c">
+      <Filter>소스 파일\file</Filter>
+    </ClCompile>
+    <ClCompile Include="feofcopystring.c">
+      <Filter>소스 파일\file</Filter>
+    </ClCompile>
+    <ClCompile Include="file_test01.c">
+      <Filter>소스 파일\file</Filter>
+    </ClCompile>
+    <ClCompile Include="file_test02.c">
+      <Filter>소스 파일\file</Filter>
+    </ClCompile>
+    <ClCompile Include="addrExam.c">
+      <Filter>소스 파일\addrbook</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
